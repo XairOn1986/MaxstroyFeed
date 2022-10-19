@@ -1,28 +1,29 @@
 <!-- Минимальное сочетание тегов для работы фида -->
 <complexes>										<!-- Жилые комплексы-->
 	<complex>									<!-- Конкретный комплекс-->
-		<id></id>								<!-- id комплекса-->
-		<name></name>							<!-- Название комплекса-->
-		<latitude></latitude>					<!-- Широта комплекса-->
-		<longitude></longitude>					<!-- Долгота комплекса-->
-		<address></address>						<!-- Адрес комплекса-->
+		<id>10495</id>								<!-- id комплекса-->
+		<name>ЖК "Гранд Парк"</name>							<!-- Название комплекса-->
+		<latitude>52.22993177215647</latitude>					<!-- Широта комплекса [52.22993177215647,104.30629666702846]-->
+		<longitude>104.30629666702846</longitude>					<!-- Долгота комплекса-->
+		<address>Иркутск​ Приморский м-н, Сеченова, 6 </address>						<!-- Адрес комплекса-->
 		<buildings>								<!-- Здания в  комплексе-->
 			<building>							<!-- Здание в  комплексе-->
-				<id></id>						<!-- id  здания-->
-				<flats>							<!-- квартиры  здания-->
-					<flat>						<!-- квартира  здания-->
-						<flat_id></flat_id>		<!-- id квартиры-->
-						<floor></floor>			<!-- какой этаж-->
-						<room></room>			<!-- сколько комнат-->
-						<plan></plan>			<!-- план квартиры-->
-						<price></price>			<!-- цена квартиры-->
-						<area></area>			<!-- площадь квартиры-->
-					</flat>
-				</flats>
+				<id>169771</id>						<!-- id  здания-->
+				<fz_214>1</fz_214>
+				<name>Блок секция 3.2</name>
+				<floors>17</floors>
+				<floors_ready>11</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2023</built_year>
+				<ready_quarter>4</ready_quarter>
+				<building_phase>2</building_phase>
+				<building_type>монолитный</building_type>
+				<image>https://maxstroy.ru/wp-content/uploads/2019/10/nbr-940x368.jpg</image>
+				<flats></flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone></sales_phone>			<!-- телефон менеджера-->
+			<sales_phone>59-79-62</sales_phone>			<!-- телефон менеджера-->
 		</sales_info>
 	</complex>
 </complexes>
