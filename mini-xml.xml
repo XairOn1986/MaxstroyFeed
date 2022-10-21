@@ -19,7 +19,16 @@
 				<building_phase>2</building_phase>
 				<building_type>монолитный</building_type>
 				<image>https://maxstroy.ru/wp-content/uploads/2019/10/nbr-940x368.jpg</image>
-				<flats></flats>
+				<flats>
+					<flat>
+						<flat_id>0001</flat_id>
+						<floor>10</floor>
+						<room>1</room>
+						<plan>https://maxstroy.ru/shema-gp-3-2/assets/empty.png</plan>
+						<price>4576800</price>
+						<area>42,6</area>
+					</flat>
+				</flats>
 			</building>
 		</buildings>
 		<sales_info>
